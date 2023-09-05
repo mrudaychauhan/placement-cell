@@ -2,7 +2,7 @@
 
 This placement cell web application is created for users/employees to manage interviews of students, and allocate students to companies` interviews.
 
-### Hosted link: [placement cell](https://placement-cell.onrender.com/)
+### Hosted link: [placement cell](https://shy-red-cougar-robe.cyclic.app/)
 
 ## Functionality 
 - User/Employee signUp and signIn
